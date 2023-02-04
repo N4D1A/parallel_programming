@@ -1,0 +1,11 @@
+SCOREP_REGION_NAMES_BEGIN
+    EXCLUDE *
+    INCLUDE
+        next_workload
+        recv_workload
+        Produce
+        compute_work
+        Consume
+        main
+
+SCOREP_REGION_NAMES_END
